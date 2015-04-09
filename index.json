@@ -1172,5 +1172,20 @@ var places = [
         "service": "Very friendly and accomodating",
         "provision": "Great breakfast - eggs benedict, briliant coffee and craft beer to take you into the evening"
     }
+},
+{
+    "city": "Berlin",
+    "country": "DE",
+    "name": "Cuccuma",
+    "address": "Zossener Straße 34, 10961 Berlin",
+    "coordinates": ["52.490609","13.39482,15"],
+    "description": {
+        "internet": "Free wifi",
+        "power_outlets": "Some upstairs",
+        "seating": "Upstairs: Bar seating and loungy couches; Outside: Sunny tables for that screen glare",
+        "service": "Friendly staff",
+        "provision": "Great outdoor area out the front in the sun"
+    },
+    "link": {"homepage":"http://www.cuccuma.de"}
 }
 ]
